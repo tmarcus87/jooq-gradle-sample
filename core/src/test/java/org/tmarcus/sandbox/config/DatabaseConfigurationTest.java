@@ -5,9 +5,7 @@ import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.tmarcus.sandbox.TestBase;
 
-import java.sql.Connection;
-
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertNotNull;
 
 public class DatabaseConfigurationTest extends TestBase {
 

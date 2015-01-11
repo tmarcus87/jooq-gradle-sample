@@ -1,2 +1,4 @@
-rootProject.name = 'jooq-sample'
+include "data"
+include "core"
 
+rootProject.name = 'jooq-sample'
